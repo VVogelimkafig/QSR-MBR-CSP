@@ -10,3 +10,7 @@ A little project to finish some qualitative spatial reasoning
 * ----注意----
 
 * 并不完全正确，其中有错误的地方，仅作参考
+
+附带一个个人认为做得很好的QSR网站`QSRlib`
+
+[QSRlib](http://qsrlib.readthedocs.org)
